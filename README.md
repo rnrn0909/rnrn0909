@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=200&text=Chaerin%20Kim&fontAlign=70&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=212121&height=200&text=Chaerin%20Kim&fontAlign=70&theme=radical)
 
 # Master Student 
 : Studying Cyber Security in Brandenburgische Technische Universität
