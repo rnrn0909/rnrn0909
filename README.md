@@ -3,10 +3,11 @@
 # Master Student 
 : Studying Cyber Security in Brandenburgische Technische Universität
 
-: 🔭 I’m currently working on IHP : Innovations for High Performance Microelectronics
+: 🔭 I’m currently working in IHP : Innovations for High Performance Microelectronics
 
 # Interest
 - Cyber Security
+- Network Security
 - Python
 
 # 📫 How to reach me
