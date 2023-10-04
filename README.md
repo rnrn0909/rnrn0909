@@ -11,7 +11,7 @@
 - Python
 
 # 📫 How to reach me
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaerinkim808@gmail.com)](mailto:chaerinkim808@gmail.com)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/chaerin-kim-31b19b212/)](https://www.linkedin.com/in/https://www.linkedin.com/in/chaerin-kim-31b19b212/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCiJb2pjYBKhMekXfaoPuygQ)](https://www.youtube.com/channel/UCiJb2pjYBKhMekXfaoPuygQ)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaerinkim808@gmail.com)](mailto:chaerinkim808@gmail.com)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/chaerin-kim-31b19b212/)](https://www.linkedin.com/in/chaerin-kim-31b19b212/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCiJb2pjYBKhMekXfaoPuygQ)](https://www.youtube.com/channel/UCiJb2pjYBKhMekXfaoPuygQ)
 
 
 
