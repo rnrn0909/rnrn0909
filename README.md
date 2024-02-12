@@ -3,7 +3,7 @@
 # Master Student 
 : Studying Cyber Security in Brandenburgische Technische Universität
 
-: 🔭 I’m currently working in IHP : Innovations for High Performance Microelectronics
+: 🔭 I’m currently working in [IHP : Innovations for High Performance Microelectronics](https://www.ihp-microelectronics.com/)
 
 # Interest
 - Cyber Security
