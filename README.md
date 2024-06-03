@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=212121&height=200&text=Chaerin%20Kim&fontAlign=70&theme=tokyonight)
 
 # Master of Cyber Security
+: 🔭 Working as academic staff in Brandenburgische Technische Universität
 : Finished Master of Cyber Security in Brandenburgische Technische Universität
-
-: 🔭 From 2022 to 2024, I worked in [IHP : Innovations for High Performance Microelectronics](https://www.ihp-microelectronics.com/)
+: From 2022 to 2024, worked in [IHP : Innovations for High Performance Microelectronics](https://www.ihp-microelectronics.com/)
 
 # Interest
 - Cyber Security
